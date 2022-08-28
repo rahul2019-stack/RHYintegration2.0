@@ -1,5 +1,5 @@
 def add(a,b):
-	print("Inside add")
+	print("Declarative")
 	res = a+b
 	print("Res of two nos is ", res)
 	
